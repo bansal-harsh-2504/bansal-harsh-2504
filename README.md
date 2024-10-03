@@ -1,11 +1,10 @@
-[![](https://visitcount.itsvg.in/api?id=bansal-harsh-2504&icon=5&color=12)](https://visitcount.itsvg.in)
----
-# 💫 About Me:
-👋 Hello! I'm a passionate Web Developer with a solid foundation in the MERN stack (MongoDB, Express, React, Node.js) and a growing interest in the Web3 field. Over the years, I've built and deployed several web applications, honing my skills and learning more with each project.
+<h1 align="center">Hi <img style="height: 45px;width: 45px;" src = "https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">, I'm <b>Harsh</b> </h1>
+💫 
+Hello! I'm a passionate Web Developer with a solid foundation in the MERN stack (MongoDB, Express, React, Node.js) and a growing interest in the Web3 field.
 <br><br>
-🌱 My journey as a developer doesn't stop there! I'm always looking for opportunities to grow, and my next goals include mastering TypeScript, exploring the power of Prisma for database management, and diving deeper into Next.js for building performant, full-stack applications..
+🌱 My next goals include mastering TypeScript, exploring the power of Prisma for database management, and diving deeper into Next.js for building performant, full-stack applications..
 <br><br>
-👨‍💻 I’m also keen on giving back to the developer community through open-source contributions. I believe in learning by doing and helping others along the way, and I’m eager to collaborate on projects that challenge me and make a real impact.
+👨‍💻 I’m also keen on giving back to the developer community through open-source contributions.
 <br>
 
 # 💻 Tech Stack:
@@ -32,3 +31,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bansal-harsh-2504&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=bansal-harsh-2504&icon=5&color=12)](https://visitcount.itsvg.in)
