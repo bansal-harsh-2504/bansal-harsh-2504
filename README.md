@@ -29,6 +29,7 @@ Hello! I'm a passionate Web Developer with a solid foundation in the MERN stack 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bansal-harsh-2504&theme=dark&hide_border=false)<br/>
+[![An image of @bansalharsh2504's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bansalharsh2504)](https://holopin.io/@bansalharsh2504)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
