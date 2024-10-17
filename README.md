@@ -40,6 +40,8 @@ Hello! I'm a passionate Web Developer with a solid foundation in the MERN stack 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bansal-harsh-2504&theme=dark&hide_border=false)<br/>
 [![An image of @bansalharsh2504's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bansalharsh2504)](https://holopin.io/@bansalharsh2504)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+        <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" />
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=bansal-harsh-2504&icon=5&color=12)](https://visitcount.itsvg.in)
