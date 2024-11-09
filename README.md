@@ -27,6 +27,9 @@ Hello! I'm a passionate Web Developer with a solid foundation in the MERN stack 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+  
+[![An image of @bansalharsh2504's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bansalharsh2504)](https://holopin.io/@bansalharsh2504)
+<!--
   <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -34,11 +37,10 @@ Hello! I'm a passionate Web Developer with a solid foundation in the MERN stack 
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bansal-harsh-2504&theme=dark&hide_border=false)<br/>
-[![An image of @bansalharsh2504's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bansalharsh2504)](https://holopin.io/@bansalharsh2504)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=bansal-harsh-2504&icon=5&color=12)](https://visitcount.itsvg.in)
