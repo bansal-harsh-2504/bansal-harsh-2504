@@ -38,9 +38,11 @@ Hello! I'm a passionate Web Developer with a solid foundation in the MERN stack 
   </picture>
 </div>
 -->
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bansal-harsh-2504&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bansal-harsh-2504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=bansal-harsh-2504&icon=5&color=12)](https://visitcount.itsvg.in)
